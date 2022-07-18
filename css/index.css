@@ -281,6 +281,12 @@ section>h1{
 .v-item .bottom{
     text-align: center;
     padding: 20px;
+    background-color: white;
+    border-radius: 0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    -ms-border-radius: 0 0 5px 5px;
+    -o-border-radius: 0 0 5px 5px;
 }
 .v-item .bottom h4,.v-item .bottom h3,.v-item .bottom p{
     margin: 0;
