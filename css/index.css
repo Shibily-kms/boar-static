@@ -281,7 +281,7 @@ section>h1{
 .v-item .bottom{
     text-align: center;
     padding: 20px;
-    background-color: white;
+    /* background-color: white; */
     border-radius: 0 0 5px 5px;
     -webkit-border-radius: 0 0 5px 5px;
     -moz-border-radius: 0 0 5px 5px;
@@ -487,8 +487,8 @@ section>h1{
     margin:  0 30px 0 30px;
     color: white;
 }
- .bottom{
-    background-color: rgb(56, 56, 56);
+.bottom{
+   
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
